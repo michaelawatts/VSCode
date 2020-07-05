@@ -14,6 +14,7 @@ VSCode Settings for Front End Devs
 - Prettier
 - Terminal
 - TSLint
+- vscode-database
 
 # Theme
 
